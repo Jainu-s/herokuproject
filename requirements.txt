@@ -1,0 +1,12 @@
+pandas==1.0.4
+numpy==1.18.5
+spacy==2.2.4
+langdetect==1.0.8
+bs4==0.0.1
+selenium==3.141.0
+requests==2.23.0
+inscriptis==1.1
+random-user-agent==1.0.1
+googletrans==2.4.0
+Flask==1.1.2
+
